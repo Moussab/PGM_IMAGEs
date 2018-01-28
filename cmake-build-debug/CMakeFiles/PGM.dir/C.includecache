@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amrine/CLionProjects/PGM/lib.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+assert.h
+-
+limits.h
+-
+lib.h
+/home/amrine/CLionProjects/PGM/lib.h
+
+/home/amrine/CLionProjects/PGM/lib.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/amrine/CLionProjects/PGM/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+lib.h
+/home/amrine/CLionProjects/PGM/lib.h
+

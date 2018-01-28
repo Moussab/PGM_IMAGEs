@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/PGM.dir/main.c.o CMakeFiles/PGM.dir/lib.c.o  -o PGM 
